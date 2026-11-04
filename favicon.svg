@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="8" fill="#11110f"/>
+  <!-- The mark at 86%, centred on its ink, with strokes a touch heavier for 16px -->
+  <g transform="translate(2.07 2.41) scale(0.86)">
+    <path d="M21.8 8H12Q8 8 8 12Q8 16 12 16H20Q24 16 24 20Q24 24 20 24H10" fill="none" stroke="#f4f1e8" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="25" cy="8" r="2.6" fill="none" stroke="#f4f1e8" stroke-width="2"/>
+    <circle cx="7" cy="24" r="3.3" fill="#a7b89a"/>
+  </g>
+</svg>
